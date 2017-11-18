@@ -1,2 +1,5 @@
 # LoginApp
-A simple, sample Android Login App.
+A simple, sample Android Login - Signup Android App.
+
+Download app from Google Drive: http://bit.ly/ArrowMessenger
+
